@@ -94,8 +94,8 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Bug-Hunt",
+          "slug": "000",
+          "name": "Preparations",
           "status": "start"
         },
       ],
