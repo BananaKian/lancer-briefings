@@ -109,12 +109,12 @@ export default {
           "mech": "Type - Worst Beat"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
+          "callsign": "Raven-04",
+          "alias": "K-Pop idk",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "TBD"
         },
         {
           "callsign": "Starboard",
@@ -125,7 +125,7 @@ export default {
           "mech": "Scarlet Judicator"
         },
         {
-          "callsign": "Badman",
+          "callsign": "Raven-01",
           "alias": "Spruce Vein",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "GMS",
